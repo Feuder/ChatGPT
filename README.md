@@ -1,4 +1,7 @@
-dwnpad-codex/datenbank-für-hardware-mit-auth-erstellen
+This repository contains a simple SQLite-based application for managing
+hardware items. It provides both a command line interface (CLI) and a
+minimal web UI built with Flask.
+
 # Hardware Database
 
 This repository contains a simple SQLite-based application for managing hardware items. It provides both a command line interface (CLI) and a minimal web UI built with Flask.

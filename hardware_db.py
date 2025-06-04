@@ -1,5 +1,7 @@
- dwnpad-codex/datenbank-für-hardware-mit-auth-erstellen
-from database import (
+        print(
+            "\nOptions: register, login, add_group, add_person, "
+            "add_hardware, list, quit"
+        )
     register_user,
     login_user,
     add_group,
